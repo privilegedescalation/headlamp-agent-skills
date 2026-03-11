@@ -1,0 +1,8 @@
+{
+  "config": {
+    // Line length — not enforced for agent skill docs with code examples
+    "MD013": false,
+    // First line heading — files use YAML frontmatter, not headings
+    "MD041": false
+  }
+}
