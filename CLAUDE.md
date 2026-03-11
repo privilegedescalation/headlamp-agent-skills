@@ -4,7 +4,7 @@ This repository is the home for developing and maintaining Claude Code agent ski
 
 ## Repository Structure
 
-```
+```text
 .claude/agents/          # Agent skill definitions (markdown with YAML frontmatter)
 README.md                # Project documentation
 ```
